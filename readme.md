@@ -17,7 +17,7 @@ It allows users to register, log in, and create and modify their alerts.
 
 Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 
-## Installation
+### Installation
 
 1. Clone the repository (going to a terminal and run `git clone git@github.com:schoolofcode-me/price-of-chair.git`.
 2. Define your administrator e-mail in `src/config.py`.
